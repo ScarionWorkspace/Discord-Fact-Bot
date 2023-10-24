@@ -1,0 +1,4 @@
+discord.py
+requests
+dotenv
+scikit-learn
